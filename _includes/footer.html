@@ -1,0 +1,43 @@
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <img class="brand-logo" src="{{ '/assets/img/climb-logo-white.svg' | relative_url }}" alt="CLIMB logo" width="44" height="44">
+      <p>Cloud infrastructure for microbial bioinformatics, built and supported in the UK.</p>
+      <div class="footer-logos">
+        <a href="https://www.quadram.ac.uk"><img class="logo-qib" src="{{ '/assets/img/QI-logo-v1-horizontal-white.png' | relative_url }}" alt="Quadram Institute Bioscience"></a>
+        <a href="https://www.birmingham.ac.uk"><img src="{{ '/assets/img/birmingham-uni2.png' | relative_url }}" alt="University of Birmingham" height="40"></a>
+      </div>
+    </div>
+    <div class="footer-col">
+      <h4>Platform</h4>
+      <ul>
+        <li><a href="{{ '/pricing/' | relative_url }}">Pricing</a></li>
+        <li><a href="{{ '/getting-started/' | relative_url }}">Getting started</a></li>
+        <li><a href="{{ '/docs/' | relative_url }}">Documentation</a></li>
+        <li><a href="{{ '/blog/' | relative_url }}">News</a></li>
+        <li><a href="{{ site.bryn_login_url }}">Sign in to Bryn</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Organisation</h4>
+      <ul>
+        <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+        <li><a href="{{ '/about/team/' | relative_url }}">Team</a></li>
+        <li><a href="{{ '/docs/case-studies/' | relative_url }}">Case studies</a></li>
+        <li><a href="{{ '/about/citation/' | relative_url }}">Citing CLIMB</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Support</h4>
+      <ul>
+        <li><a href="mailto:{{ site.org_email }}">{{ site.org_email }}</a></li>
+        <li><a href="{{ '/support/' | relative_url }}">Support hub</a></li>
+        <li><a href="{{ '/contact/' | relative_url }}">Contact us</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="container footer-base">
+    <span>&copy; {{ site.time | date: "%Y" }} CLIMB</span>
+    <span><a href="{{ '/about/terms/' | relative_url }}">Terms</a> &middot; <a href="{{ '/about/privacy/' | relative_url }}">Privacy</a></span>
+  </div>
+</footer>

@@ -1,0 +1,66 @@
+title: CLIMB
+tagline: Cloud infrastructure for microbial bioinformatics
+description: >-
+  CLIMB is a cloud computing infrastructure for microbial bioinformatics —
+  notebook servers, shared storage and reproducible workflows for genomics,
+  metagenomics and pathogen surveillance researchers across the UK.
+
+url: "https://climb.ac.uk"
+baseurl: ""
+
+# Organisation details, reused across includes/pages
+org_email: climb@quadram.ac.uk
+support_email: support@climb.ac.uk
+bryn_url: https://bryn.climb.ac.uk
+bryn_register_url: https://bryn.climb.ac.uk/user/register/
+bryn_login_url: https://bryn.climb.ac.uk/user/login/
+
+# The existing CLIMB user documentation site (MkDocs Material). This site
+# does not duplicate that content — /docs/ here links out to it.
+docs_site: https://docs.climb.ac.uk
+
+# Primary navigation — edit here to add/remove/reorder top-level pages
+nav:
+  - title: About
+    url: /about/
+  - title: Pricing
+    url: /pricing/
+  - title: Getting Started
+    url: /getting-started/
+  - title: News
+    url: /blog/
+  - title: Contact
+    url: /contact/
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Blog post URLs: /blog/2026/09/01/post-title/
+permalink: /blog/:year/:month/:day/:title/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - PROJECT.md
+  - .gitignore
+  - vendor
+  - __texts
+  - __misc
