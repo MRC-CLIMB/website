@@ -43,8 +43,8 @@ description: >-
       </div>
       <div class="spec-panel">
         <p class="spec-title">What's in the free 4-months trial</p>
-        <div class="spec-row"><span>Notebook CPUs</span><span class="val">10 vCPU</span></div>
-        <div class="spec-row"><span>Notebook RAM</span><span class="val">1:8 CPU:GB memory ratio</span></div>
+        <div class="spec-row"><span>Notebook CPUs</span><span class="val">8 vCPU</span></div>
+        <div class="spec-row"><span>Notebook RAM</span><span class="val">64 GB memory</span></div>
         <div class="spec-row"><span>Team storage (SSD)</span><span class="val">500 GB</span></div>
         <div class="spec-row"><span>S3 object storage</span><span class="val">500 GB</span></div>
         <div class="spec-row"><span>Cost</span><span class="val">&pound;0</span></div>
@@ -107,8 +107,9 @@ description: >-
         <div class="plan-price">Free</div>
         <div class="plan-note">4 months, no card required</div>
         <ul>
-          <li>10 CPU notebook server</li>
-          <li>500GB Team Shared + 500GB S3</li>
+          <li>8 CPUs, 64 GB memory</li>
+          <li>500GB Team Shared</li>
+          <li>500GB S3</li>
         </ul>
         <a class="btn secondary" href="{{ '/pricing/trial/' | relative_url }}">Trial details</a>
       </div>
@@ -125,8 +126,8 @@ description: >-
       </div>
       <div class="plan-card">
         <div class="plan-name">Training</div>
-        <div class="plan-price">from £35/participants per week</div>
-        <div class="plan-note">Sandboxed environments for courses</div>
+        <div class="plan-price">from £35pp per week</div>
+        <div class="plan-note">Sandboxed environments</div>
         <ul>
           <li>Per-cohort setup</li>
           <li>Pre-loaded materials</li>
