@@ -46,7 +46,7 @@ description: >-
         <div class="spec-row"><span>Notebook CPUs</span><span class="val">8 vCPU</span></div>
         <div class="spec-row"><span>Notebook RAM</span><span class="val">64 GB memory</span></div>
         <div class="spec-row"><span>Team storage (SSD)</span><span class="val">500 GB</span></div>
-        <div class="spec-row"><span>S3 object storage</span><span class="val">500 GB</span></div>
+        <div class="spec-row"><span>S3 object storage</span><span class="val">1 TB</span></div>
         <div class="spec-row"><span>Cost</span><span class="val">&pound;0</span></div>
       </div>
     </aside>
