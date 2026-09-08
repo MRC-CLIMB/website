@@ -15,7 +15,7 @@ description: >-
       <p class="lede">
         Notebook servers, shared storage and Nextflow support for genomics,
         metagenomics and pathogen surveillance run by researchers, for
-        researchers. Three months free trial, specs and prices up
+        researchers. Four months free trial, specs and prices up
         front.
       </p>
       <div class="cta-row">
