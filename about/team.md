@@ -14,7 +14,7 @@ permalink: /about/team/
 
 <div class="people-grid">
   <div class="person">
-    <div class="name">Prof. Nick Loman</div>
+    <div class="name">Nick Loman</div>
     <div class="role">CLIMB Director, UoB and QIB</div>
     <p class="bio">Bio coming soon.</p>
   </div>
@@ -45,7 +45,7 @@ permalink: /about/team/
   </div>
   <div class="person">
     <div class="name">Sam Wilkinson</div>
-    <div class="role">Bioinformatician, UoB</div>
+    <div class="role">CLIMB-GRE Architect, UoB</div>
     <p class="bio">Bio coming soon.</p>
   </div>
   <div class="person">
@@ -55,7 +55,7 @@ permalink: /about/team/
   </div>
   <div class="person">
     <div class="name">Andrea Telatin</div>
-    <div class="role">QIB - Head of Bionformatics</div>
+    <div class="role">Head of Bionformatics, QIB</div>
     <p class="bio">Bio coming soon.</p>
   </div>
   <div class="person">
@@ -65,12 +65,12 @@ permalink: /about/team/
   </div>
   <div class="person">
     <div class="name">Sam Haynes</div>
-    <div class="role">QIB - Core Bioinformatics</div>
+    <div class="role">Core Bioinformatics, QIB</div>
     <p class="bio">Bio coming soon.</p>
   </div>
   <div class="person">
     <div class="name">Kalon Grimes</div>
-    <div class="role">QIB - Core Bioinformatics</div>
+    <div class="role">Core Bioinformatics, QIB</div>
     <p class="bio">Bio coming soon.</p>
   </div>
     <div class="person">
