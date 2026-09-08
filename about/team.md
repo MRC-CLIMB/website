@@ -1,7 +1,7 @@
 ---
 title: Our Team
 eyebrow: About
-lede: The people building and running CLIMB.
+lede: The people building, running and supporting CLIMB.
 permalink: /about/team/
 ---
 
@@ -50,7 +50,7 @@ permalink: /about/team/
   </div>
   <div class="person">
     <div class="name">Tom Paine</div>
-    <div class="role">Cloud Engineer, UoB</div>
+    <div class="role">Cloud Engineer</div>
     <p class="bio">Bio coming soon.</p>
   </div>
   <div class="person">
