@@ -23,7 +23,7 @@ permalink: /pricing/
     <ul>
       <li>8 vCPUs (1:8 CPU:GB memory ratio)</li>
       <li>Flexible allocation between JuputerLab and Nextflow</li>
-      <li>500GB team + 500GB S3</li>
+      <li>500GB team + 1TB S3</li>
     </ul>
     <a class="btn secondary" href="{{ '/pricing/trial/' | relative_url }}">Details</a>
   </div>
@@ -33,7 +33,7 @@ permalink: /pricing/
     <div class="plan-note">Labs &amp; independent researchers</div>
     <ul>
       <li>8 vCPUs, 64GB memory</li>
-      <li>500 GB Team Shared + 500 GB S3</li>
+      <li>500 GB Team Shared + 1TB S3</li>
       <li>Multi-year options</li>
     </ul>
     <a class="btn secondary" href="{{ '/pricing/research/' | relative_url }}">Details</a>
@@ -72,7 +72,7 @@ permalink: /pricing/
     <tr><td>CPU</td><td>Interactive JupyterLab / RStudio sessions / Nextflow / Pipeline execution on Kubernetes </td><td class="num">8 vCPU</td></tr>
     <tr><td>Memory</td><td>Paired with notebook CPU allocation; fixed 1:8 CPU:GB memory ratio</td><td class="num">64 GB</td></tr>
     <tr><td>Team storage (SSD)</td><td>Fast shared storage, mounted at <code>/shared-team/</code></td><td class="num">500 GB</td></tr>
-    <tr><td>S3 object storage</td><td>Long-term data archiving, bucket sharing</td><td class="num">500 GB</td></tr>
+    <tr><td>S3 object storage</td><td>Long-term data archiving, bucket sharing</td><td class="num">1TB</td></tr>
     <tr><td>Home directory</td><td>Personal workspace — kept small; use team/S3 storage for data</td><td class="num">20 GB</td></tr>
   </tbody>
 </table>
