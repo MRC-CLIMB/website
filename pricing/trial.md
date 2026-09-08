@@ -9,7 +9,7 @@ permalink: /pricing/trial/
   <p class="spec-title">Trial — 4 months, &pound;0</p>
   <div class="spec-row"><span>Notebook server</span><span class="val"> 8 vCPUs (1:8 CPU : GB memory ratio)</span></div>
   <div class="spec-row"><span>Team storage (SSD)</span><span class="val">500 GB</span></div>
-  <div class="spec-row"><span>S3 object storage</span><span class="val">500 GB</span></div>
+  <div class="spec-row"><span>S3 object storage</span><span class="val">1 TB</span></div>
   <div class="spec-row"><span>Home directory</span><span class="val">20 GB</span></div>
   <div class="spec-row"><span>GPU</span><span class="val">contact us</span></div>
 </div>
