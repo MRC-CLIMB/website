@@ -11,7 +11,7 @@ permalink: /about/history/
     <p>Founded with initial funding from the Medical Research Council (MR/L015080/1)to address the growing computational needs of microbial genomics researchers.</p>
   </li>
     <li>
-    <h4>2016 - Official CLIMB launch</h4>
+    <h4>2016 — Official CLIMB launch</h4>
     <p>Over 100 groups in the UK signed up fo use CLIMB within the first 5 months.</p>
   </li>
   <li>
