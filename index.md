@@ -55,6 +55,12 @@ description: >-
 
 <section class="section">
   <div class="container">
+    <img src="{{ '/assets/img/climb-notebook.svg' | relative_url }}" alt="CLIMB notebook file browser and interface preview" style="width:100%; border-radius:var(--radius-lg); box-shadow:var(--shadow-lg);" />
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
     <div class="section-head">
       <div>
         <span class="tag teal">What you get</span>
