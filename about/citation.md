@@ -14,7 +14,7 @@ and secure continued funding for the service.
      should also be listed (flagged as open question in source doc). -->
 
 <div class="callout">
-  <p><strong>Suggested acknowledgement:</strong> "This work was supported by the CLIMB infrastructure, operated by teh Quadram Institute Bioscience and the University of Birmingham."</p>
+  <p><strong>Suggested acknowledgement:</strong> "This work was supported by the CLIMB infrastructure, operated by the Quadram Institute Bioscience and the University of Birmingham."</p>
 </div>
 
 If you need any help with the citation, please contact us
