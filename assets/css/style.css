@@ -360,6 +360,7 @@ p { margin: 0 0 1.1em; }
 /* ---------- People ---------- */
 
 .people-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; margin: 1.5rem 0; }
+.team-section { color: #7fa7d2; }
 .person { border-top: 2px solid var(--color-primary); padding-top: 0.9rem; }
 .person .name { font-weight: 700; }
 .person .role { color: var(--color-text-muted); font-size: var(--text-sm); margin-bottom: 0.35rem; }
