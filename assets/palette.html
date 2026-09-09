@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>CLIMB Color Palette</title>
+<style>
+  body { font-family: -apple-system, 'Segoe UI', Arial, sans-serif; margin: 2rem; background: #f6f9fc; color: #14233d; }
+  h1 { margin-bottom: 0.25rem; }
+  h2 { margin-top: 2.5rem; }
+  p.source { color: #526174; margin-top: 0; }
+  table { border-collapse: collapse; width: 100%; max-width: 720px; margin-bottom: 1rem; }
+  th, td { border: 1px solid #ccc; padding: 8px 12px; text-align: left; }
+  th { background: #08204A; color: #fff; }
+  td.sample { width: 90px; }
+  code { font-family: ui-monospace, 'SF Mono', Menlo, Consolas, monospace; }
+</style>
+</head>
+<body>
+
+<h1>CLIMB Color Palette</h1>
+<p class="source">Extracted from <code>assets/css/style.css</code></p>
+
+<h2>Light theme (<code>:root, [data-theme="light"]</code>)</h2>
+<table>
+  <tr>
+    <th>Color name</th>
+    <th>Color sample</th>
+    <th>RGB hex</th>
+    <th>Style variable name</th>
+  </tr>
+  <tr><td>Background</td><td class="sample" bgcolor="#eef2f7"></td><td>#EEF2F7</td><td><code>--color-bg</code></td></tr>
+  <tr><td>Surface</td><td class="sample" bgcolor="#f6f9fc"></td><td>#F6F9FC</td><td><code>--color-surface</code></td></tr>
+  <tr><td>Surface (secondary)</td><td class="sample" bgcolor="#ffffff"></td><td>#FFFFFF</td><td><code>--color-surface-2</code></td></tr>
+  <tr><td>Surface offset</td><td class="sample" bgcolor="#e2e8f0"></td><td>#E2E8F0</td><td><code>--color-surface-offset</code></td></tr>
+  <tr><td>Border</td><td class="sample" style="background-color: rgba(8,32,74,0.14);"></td><td>#08204A24 <em>(rgba(8,32,74,0.14))</em></td><td><code>--color-border</code></td></tr>
+  <tr><td>Divider</td><td class="sample" style="background-color: rgba(8,32,74,0.10);"></td><td>#08204A1A <em>(rgba(8,32,74,0.10))</em></td><td><code>--color-divider</code></td></tr>
+  <tr><td>Text</td><td class="sample" bgcolor="#14233d"></td><td>#14233D</td><td><code>--color-text</code></td></tr>
+  <tr><td>Text muted</td><td class="sample" bgcolor="#526174"></td><td>#526174</td><td><code>--color-text-muted</code></td></tr>
+  <tr><td>Text faint</td><td class="sample" bgcolor="#7c8898"></td><td>#7C8898</td><td><code>--color-text-faint</code></td></tr>
+  <tr><td>Primary (brand navy)</td><td class="sample" bgcolor="#08204A"></td><td>#08204A</td><td><code>--color-primary</code></td></tr>
+  <tr><td>Primary (secondary)</td><td class="sample" bgcolor="#123a6b"></td><td>#123A6B</td><td><code>--color-primary-2</code></td></tr>
+  <tr><td>Primary tint</td><td class="sample" style="background-color: rgba(8,32,74,0.08);"></td><td>#08204A14 <em>(rgba(8,32,74,0.08))</em></td><td><code>--color-primary-tint</code></td></tr>
+  <tr><td>Accent</td><td class="sample" bgcolor="#9aa6b2"></td><td>#9AA6B2</td><td><code>--color-accent</code></td></tr>
+  <tr><td>Accent (secondary)</td><td class="sample" bgcolor="#c7ced7"></td><td>#C7CED7</td><td><code>--color-accent-2</code></td></tr>
+  <tr><td>Warn</td><td class="sample" bgcolor="#b5741f"></td><td>#B5741F</td><td><code>--color-warn</code></td></tr>
+  <tr><td>Warn tint</td><td class="sample" style="background-color: rgba(181,116,31,0.12);"></td><td>#B5741F1F <em>(rgba(181,116,31,0.12))</em></td><td><code>--color-warn-tint</code></td></tr>
+  <tr><td>Inverse</td><td class="sample" bgcolor="#f7fafc"></td><td>#F7FAFC</td><td><code>--color-inverse</code></td></tr>
+  <tr><td>Footer background</td><td class="sample" bgcolor="#08204A"></td><td>#08204A</td><td><code>--footer-bg</code></td></tr>
+</table>
+
+<h2>Dark theme (<code>[data-theme="dark"]</code>)</h2>
+<table>
+  <tr>
+    <th>Color name</th>
+    <th>Color sample</th>
+    <th>RGB hex</th>
+    <th>Style variable name</th>
+  </tr>
+  <tr><td>Background</td><td class="sample" bgcolor="#0b1220"></td><td>#0B1220</td><td><code>--color-bg</code></td></tr>
+  <tr><td>Surface</td><td class="sample" bgcolor="#101a2b"></td><td>#101A2B</td><td><code>--color-surface</code></td></tr>
+  <tr><td>Surface (secondary)</td><td class="sample" bgcolor="#16233b"></td><td>#16233B</td><td><code>--color-surface-2</code></td></tr>
+  <tr><td>Surface offset</td><td class="sample" bgcolor="#223247"></td><td>#223247</td><td><code>--color-surface-offset</code></td></tr>
+  <tr><td>Border</td><td class="sample" style="background-color: rgba(224,232,240,0.14); background-clip: padding-box;"></td><td>#E0E8F024 <em>(rgba(224,232,240,0.14))</em></td><td><code>--color-border</code></td></tr>
+  <tr><td>Divider</td><td class="sample" style="background-color: rgba(224,232,240,0.08);"></td><td>#E0E8F014 <em>(rgba(224,232,240,0.08))</em></td><td><code>--color-divider</code></td></tr>
+  <tr><td>Text</td><td class="sample" bgcolor="#eef4fb"></td><td>#EEF4FB</td><td><code>--color-text</code></td></tr>
+  <tr><td>Text muted</td><td class="sample" bgcolor="#b9c6d6"></td><td>#B9C6D6</td><td><code>--color-text-muted</code></td></tr>
+  <tr><td>Text faint</td><td class="sample" bgcolor="#90a1b5"></td><td>#90A1B5</td><td><code>--color-text-faint</code></td></tr>
+  <tr><td>Primary (brand navy)</td><td class="sample" bgcolor="#7fa7d2"></td><td>#7FA7D2</td><td><code>--color-primary</code></td></tr>
+  <tr><td>Primary (secondary)</td><td class="sample" bgcolor="#9ab9da"></td><td>#9AB9DA</td><td><code>--color-primary-2</code></td></tr>
+  <tr><td>Primary tint</td><td class="sample" style="background-color: rgba(127,167,210,0.12);"></td><td>#7FA7D21F <em>(rgba(127,167,210,0.12))</em></td><td><code>--color-primary-tint</code></td></tr>
+  <tr><td>Accent</td><td class="sample" bgcolor="#94a3b8"></td><td>#94A3B8</td><td><code>--color-accent</code></td></tr>
+  <tr><td>Accent (secondary)</td><td class="sample" bgcolor="#334155"></td><td>#334155</td><td><code>--color-accent-2</code></td></tr>
+  <tr><td>Warn</td><td class="sample" bgcolor="#e0a04a"></td><td>#E0A04A</td><td><code>--color-warn</code></td></tr>
+  <tr><td>Warn tint</td><td class="sample" style="background-color: rgba(224,160,74,0.14);"></td><td>#E0A04A24 <em>(rgba(224,160,74,0.14))</em></td><td><code>--color-warn-tint</code></td></tr>
+  <tr><td>Inverse</td><td class="sample" bgcolor="#0b1220"></td><td>#0B1220</td><td><code>--color-inverse</code></td></tr>
+  <tr><td>Footer background</td><td class="sample" bgcolor="#080f1a"></td><td>#080F1A</td><td><code>--footer-bg</code></td></tr>
+</table>
+<h2>Additional Colors</h2>
+<table>
+  <tr>
+    <th>Color name</th>
+    <th>Color sample</th>
+    <th>RGB hex</th>
+  </tr>
+  <tr><td>Diamond Cut</td><td class="sample" bgcolor="#e8ecf0"></td><td>#E8ECF0</td></tr>
+  <tr><td>Dark Eclipse</td><td class="sample" bgcolor="#0f243c"></td><td>#0F243C</td></tr>
+  <tr><td>À l'Orange</td><td class="sample" bgcolor="#f77e0e"></td><td>#F77E0E</td></tr>
+  <tr><td>Lost in Time</td><td class="sample" bgcolor="#9aaec3"></td><td>#9AAEC3</td></tr>
+</table>
+</body>
+</html>
