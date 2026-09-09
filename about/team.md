@@ -75,11 +75,6 @@ permalink: /about/team/
     <div class="role">Bioinformatician &amp; User Support Manager, QIB</div>
     <p class="bio"></p>
   </div>
-  <div class="person">
-    <div class="name">Andrew Edmondson (Ed)</div>
-    <div class="role">Head of Advanced Research Computing (ARC), UoB</div>
-    <p class="bio"></p>
-  </div>
 </div>
 
 <h3 class="team-section">Support and Governance</h3>
@@ -93,6 +88,16 @@ permalink: /about/team/
   <div class="person">
     <div class="name">Richard Bogue</div>
     <div class="role">Solicitor (Commercial), UoB</div>
+    <p class="bio"></p>
+  </div>
+  <div class="person">
+    <div class="name">Andrew Edmondson (Ed)</div>
+    <div class="role">Head of Advanced Research Computing (ARC), UoB</div>
+    <p class="bio"></p>
+  </div>
+  <div class="person">
+    <div class="name">Steve Hindmarsh</div>
+    <div class="role">Head of Research and Core Computing, NBI Partnership</div>
     <p class="bio"></p>
   </div>
 </div>
