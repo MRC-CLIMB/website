@@ -35,14 +35,14 @@ audience.
 
 <p><a href="{{ '/about/history/' | relative_url }}">Read the full history &rarr;</a></p>
 
-## Leadership
+## Our team
 
 CLIMB is led by an experienced team of researchers and computational
 experts from the University of Birmingham and the Quadram Institute Bioscience.
 
 <p><a href="{{ '/about/team/' | relative_url }}">Meet the team &rarr;</a></p>
 
-## Governance
+## Our governance
 
 CLIMB is governed by a multi-tiered structure to ensure responsible
 management, scientific relevance and user-focused development:
