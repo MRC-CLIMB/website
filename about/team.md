@@ -83,4 +83,9 @@ permalink: /about/team/
     <div class="role">Solicitor (Commercial), UoB</div>
     <p class="bio">Bio coming soon.</p>
   </div>
+  <div class="person">
+    <div class="name">Steve Hindmarsh</div>
+    <div class="role">Head of Research and Core Computing, NBI</div>
+    <p class="bio">Bio coming soon.</p>
+  </div>
 </div>
