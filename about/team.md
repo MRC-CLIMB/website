@@ -51,6 +51,11 @@ permalink: /about/team/
     <p class="bio"></p>
   </div>
   <div class="person">
+    <div class="name">Michaela Matthews</div>
+    <div class="role">Bioinformatician &amp; User Support Manager, QIB</div>
+    <p class="bio"></p>
+  </div>
+  <div class="person">
     <div class="name">Tom Paine</div>
     <div class="role">Cloud Engineer</div>
     <p class="bio"></p>
@@ -68,11 +73,6 @@ permalink: /about/team/
   <div class="person">
     <div class="name">Kalon Grimes</div>
     <div class="role">Core Bioinformatics, QIB</div>
-    <p class="bio"></p>
-  </div>
-  <div class="person">
-    <div class="name">Michaela Matthews</div>
-    <div class="role">Bioinformatician &amp; User Support Manager, QIB</div>
     <p class="bio"></p>
   </div>
 </div>
