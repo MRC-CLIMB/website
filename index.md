@@ -3,7 +3,7 @@ layout: home
 title: Home
 description: >-
   CLIMB is the UK's cloud computing infrastructure for microbial
-  bioinformatics - notebook servers, storage and workflows, with pricing
+  bioinformatics - JupyterLab environments, storage and workflows, with pricing
   and specs up front.
 ---
 
@@ -13,7 +13,7 @@ description: >-
       <span class="eyebrow">The UK infrastructure for microbial bioinformatics</span>
       <h1>Cloud resources for <span class="rotating-word" id="hero-rotator"></span> bioinformatics.</h1>
       <p class="lede">
-        Notebook servers, shared storage and Nextflow support for genomics,
+        JupyterLab environments, shared storage and Nextflow support for genomics,
         metagenomics and pathogen surveillance run by researchers, for
         researchers. Four months free trial, specs and prices up
         front.
