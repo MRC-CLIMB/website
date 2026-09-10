@@ -19,7 +19,7 @@ permalink: /pricing/trial/
 - 8 vCPUs, 64 GB memory (1:8 CPU:GB memory ratio) 
 - Flexible allocation between JupyterLab, RStudio and terminal access and Nextflow pipeline execution
 - 500 GB fast SSD team storage, shared with your team
-- 500GB S3 object storage for longer-term data
+- 1TB S3 object storage for longer-term data
 - Mandatory two-factor authentication and role-based team access
 - Access to documentation
 - Support ticketing system (office hours)
