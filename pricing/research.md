@@ -8,12 +8,12 @@ permalink: /pricing/research/
 <span class="tag">Custom quote</span>
 
 Research packages scale a standard CLIMB team up from trial quotas —
-more notebook CPU/RAM, dedicated GPU access, more team and S3 storage,
+you can add more notebook CPU/RAM, dedicated GPU access, more team and S3 storage,
 and longer access — sized to your project and funding.
 
 ## Research Starter Pack
 It's ideal for a single user or a small team and includes:
-- 8 vCPUs, 64 GB RAM (1:8 CPU:GB memory ratio) - flexible allocation between Jupuyter Lab envornments/Nextflow
+- 8 vCPUs, 64 GB RAM (1:8 CPU:GB memory ratio) - flexible allocation between Jupyter Lab environments/Nextflow
 - 500 GB Team Shared Storage
 - 1TB S3 Storage
 
@@ -35,7 +35,7 @@ Starts at £1,300/year or £170/month excl. VAT
 ## How it works
 
 1. Start on the <a href="{{ '/pricing/trial/' | relative_url }}">free trial</a> to confirm CLIMB fits your workflow.
-2. Tell us your CPU, GPU, storage and duration needs via the <a href="{{ '/contact/' | relative_url }}">contact form</a>.
+2. Tell us your CPU, GPU, storage and duration needs via <a href="{{ '/contact/' | relative_url }}">email</a>.
 3. We come back with a quote (or with a few questions if we need more details).
 
 CLIMB has supported research packages ranging from single labs to
