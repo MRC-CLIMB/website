@@ -115,7 +115,7 @@ description: >-
         <ul>
           <li>8 CPUs, 64 GB memory</li>
           <li>500GB Team Shared</li>
-          <li>500GB S3</li>
+          <li>1TB S3</li>
         </ul>
         <a class="btn secondary" href="{{ '/pricing/trial/' | relative_url }}">Trial details</a>
       </div>
