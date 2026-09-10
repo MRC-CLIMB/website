@@ -24,8 +24,8 @@ Starts at £1,300/year or £170/month excl. VAT
 <table>
   <thead><tr><th>Additional resource</th><th>Quantity</th><th>Price (excl. VAT)</th></tr></thead>
   <tbody>
-    <tr><td>CPU/RAM</td><td class="num">8 vCPU / 64GB</td><td>£600/year</td></tr>
-    <tr><td>CPU/RAM</td><td class="num">4 vCPU / 32GB</td><td>£320/year</td></tr>
+    <tr><td>CPU/RAM</td><td class="num">8 vCPU / 64GB</td><td>£650/year</td></tr>
+    <tr><td>CPU/RAM</td><td class="num">4 vCPU / 32GB</td><td>£350/year</td></tr>
     <tr><td>A100 GPU</td><td>On request</td><td>Dedicated allocation available</td></tr>
     <tr><td>Team storage</td><td class="num">1 TB</td><td>£1,100/year</td></tr>
     <tr><td>S3 storage</td><td class="num">1 TB</td><td>£270/year</td></tr>
