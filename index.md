@@ -42,7 +42,7 @@ description: >-
         <div class="metric"><span>Institutes</span><strong>80+</strong></div>
       </div>
       <div class="spec-panel">
-        <p class="spec-title">What's in the free 4-months trial</p>
+        <p class="spec-title">What's in the free 4-months trial (from Oct '26)</p>
         <div class="spec-row"><span>Notebook CPUs</span><span class="val">8 vCPU</span></div>
         <div class="spec-row"><span>Notebook RAM</span><span class="val">64 GB memory</span></div>
         <div class="spec-row"><span>Team storage (SSD)</span><span class="val">500 GB</span></div>
