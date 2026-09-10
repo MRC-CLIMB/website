@@ -70,8 +70,8 @@ description: >-
     </div>
     <div class="grid-3">
       <div class="card">
-        <h3>Notebook servers</h3>
-        <p>JupyterLab, RStudio and a terminal, with flexible CPU/GPU allocation. Access from any browser — nothing to install, nothing to patch.</p>
+        <h3>JupyterLab environments</h3>
+        <p>Jupyter notebooks, RStudio and a terminal, with flexible CPU/GPU allocation. Access from any browser — nothing to install, nothing to patch.</p>
       </div>
       <div class="card">
         <h3>Built for bioinformatics</h3>
@@ -79,7 +79,7 @@ description: >-
       </div>
       <div class="card">
         <h3>Team storage &amp; sharing</h3>
-        <p>Fast shared team storage and S3 object storage, with role-based access so you control who sees what.</p>
+        <p>Fast shared team storage and S3 object storage, with private or public access so you control who sees what.</p>
       </div>
       <div class="card">
         <h3>Nextflow on Kubernetes</h3>
