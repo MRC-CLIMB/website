@@ -122,7 +122,7 @@ description: >-
       <div class="plan-card">
         <div class="plan-name">Research</div>
         <div class="plan-price">from £1,300/year</div>
-        <div class="plan-note">For labs &amp; individual researchers</div>
+        <div class="plan-note">Individual researchers &amp; small labs</div>
         <ul>
           <li>8 CPUs, 64GB memory</li>
           <li>500 GB Team Shared Storage</li>
