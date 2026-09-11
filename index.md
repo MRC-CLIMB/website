@@ -83,7 +83,7 @@ description: >-
       </div>
       <div class="card">
         <h3>Nextflow on Kubernetes</h3>
-        <p>Run nf-core and custom pipelines against dedicated compute, separate from your interactive notebook resources.</p>
+        <p>Run nf-core and custom pipelines against dedicated compute, separate from the resources allocated to your JupyterLab environment.</p>
       </div>
       <div class="card">
         <h3>Secure by default</h3>

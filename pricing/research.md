@@ -8,7 +8,7 @@ permalink: /pricing/research/
 <span class="tag">Custom quote</span>
 
 Research packages scale a standard CLIMB team up from trial quotas —
-you can add more notebook CPU/RAM, dedicated GPU access, more team and S3 storage,
+you can add additional CPUs, dedicated GPU access, more team and S3 storage,
 and longer access — sized to your project and funding.
 
 ## Research Starter Pack
