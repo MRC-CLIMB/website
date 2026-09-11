@@ -41,5 +41,5 @@ Use the shared team storage mounted at `~/shared-team/`, accessible to all team 
 You'll see restricted write access. Contact us to discuss increasing your quota.
 
 <div class="callout">
-  <p>Didn't find your answer? See the [documentation]({{ site.docs_site }}4.Documentation/) on docs.climb.ac.uk. or <a href="{{ '/contact/' | relative_url }}">contact us</a> directly.</p>
+  <p>Didn't find your answer? See the <a href={{ sire.docs_site }}>documenation</a> on docs.climb.ac.uk. or <a href="{{ '/contact/' | relative_url }}">contact us</a> directly.</p>
 </div>
