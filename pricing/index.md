@@ -30,7 +30,7 @@ permalink: /pricing/
   <div class="plan-card">
     <div class="plan-name">Research</div>
     <div class="plan-price">from £1,300/year</div>
-    <div class="plan-note">Labs &amp; independent researchers</div>
+    <div class="plan-note">Individual researchers &amp; small labs</div>
     <ul>
       <li>8 vCPUs, 64GB memory</li>
       <li>500 GB Team Shared + 1TB S3</li>
