@@ -35,7 +35,7 @@ Use your backup codes if you set them up. If not, contact <a href="mailto:{{ sit
 Yes — install software within your environment using package managers like Conda. See [Installing software with Conda]({{ site.docs_site }}/4.Documentation/4.1.JupyterLab/4.1.7.conda/) on docs.climb.ac.uk.
 
 **How do I share data with my team members?**
-Use the shared team storage mounted at `~/shared-team/`, accessible to all team members — or use S3 buckets and share the link.
+Use the shared team storage mounted at `/shared/team/`, accessible to all team members — or use S3 buckets and share the link.
 
 **What happens if I exceed my storage quota?**
 You'll see restricted write access. Contact us to discuss increasing your quota.
