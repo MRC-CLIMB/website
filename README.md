@@ -48,7 +48,4 @@ blog/ + _posts/          News listing and posts
 - Technical/user documentation lives separately at
   [docs.climb.ac.uk](https://docs.climb.ac.uk); this site links out instead
   of duplicating it.
-- `__texts/` and `__misc/` are source material (excluded from the build).
-- Search for `MAINTAINER NOTE` for content that still needs real input
-  (team bios, paid-tier pricing numbers, citation DOI, community links,
-  case-study sign-off).# Bioinfo-skills-2022-CLIMB-VM.github.io
+ 
