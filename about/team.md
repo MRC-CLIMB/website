@@ -42,7 +42,7 @@ permalink: /about/team/
   </div>
   <div class="person">
     <div class="name">Leo Turnell-Ritson</div>
-    <div class="role">Research Software Engineer, UoB</div>
+    <div class="role">Senior Research Software Engineer, UoB</div>
     <p class="bio"></p>
   </div>
   <div class="person">
