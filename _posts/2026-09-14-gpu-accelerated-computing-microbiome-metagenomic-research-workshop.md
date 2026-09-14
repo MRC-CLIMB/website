@@ -55,7 +55,7 @@ This workshop will introduce microbiologists, computational biologists, and publ
 
 **Day 1 in Birmingham on 8th October** offers a technical, academic-focused programme centred on metagenomics and machine learning. It's the first half of a two-part series.
 
-**Day 2 takes place in London on Friday, 9 October 2026**, with a complementary focus on clinical and diagnostic applications for NHS-linked and public health audiences. Participants are encouraged to attend both days where possible. More information about day 2 can be found here: (https://www.ns-bio.co.uk/bioinformatics-day).
+**Day 2 takes place in London on Friday, 9 October 2026**, with a complementary focus on clinical and diagnostic applications for NHS-linked and public health audiences. Participants are encouraged to attend both days where possible. More information about day 2 can be found here: https://www.ns-bio.co.uk/bioinformatics-day.
 
 ### Who Should Apply?
 
@@ -73,6 +73,6 @@ Registration is limited to **120 participants**, with a brief application questi
 
 
 
-> Organised by: CLIMB (Cloud Infrastructure for Microbial Bioinformatics), NVIDIA, and the 
+> The Birmingham event is organised by: CLIMB (Cloud Infrastructure for Microbial Bioinformatics), NVIDIA, and the 
 > Health Protection Research Unit (HPRU) in Public Health Genomics.
 
