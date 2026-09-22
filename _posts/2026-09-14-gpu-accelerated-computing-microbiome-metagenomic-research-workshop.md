@@ -1,5 +1,5 @@
 ---
-title: "Call for Applications: GPU-Accelerated Computing for Microbiome and Metagenomic Research"
+title: "Call for Applications: GPU-Accelerated Computing for Microbial Genomics, Microbiome and Metagenomic Research"
 date: 2026-09-14
 category: Announcement
 author: CLIMB Team
