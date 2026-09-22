@@ -16,7 +16,7 @@ This is a two-part event, with each day focusing on a distinct area of research.
 
 ### Day 1: Birmingham — Speakers Confirmed!
 
-We're pleased to announce the confirmed speaker line-up for **Day 1** of this new workshop series, bringing together leading voices in metagenomics, computational biology, and GPU-accelerated bioinformatics.
+We're pleased to announce the confirmed speaker line-up for **Day 1** of this new workshop series, bringing together leading voices in microbial genomics, metagenomics, computational biology, and GPU-accelerated bioinformatics.
 
 **📅 Date:** Thursday, 8 October 2026
 
