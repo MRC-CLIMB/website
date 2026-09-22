@@ -41,11 +41,11 @@ More speakers and the full agenda will be announced as the programme is finalise
 
 ## About the Workshop
 
-Microbiome research, metagenomics, and metaviromics are generating data at an unprecedented scale, yet many researchers remain unfamiliar with the GPU-accelerated computing tools that could transform their work, while significant GPU capacity across UK institutions remains underused.
+Microbial and microbiome research, metagenomics, and metaviromics are generating data at an unprecedented scale, yet many researchers remain unfamiliar with the GPU-accelerated computing tools that could transform their work, while significant GPU capacity across UK institutions remains underused.
 
 This workshop will introduce microbiologists, computational biologists, and public health researchers to GPU-accelerated tools and emerging applications, including:
 
-- Machine learning approaches for microbiome data
+- Machine learning approaches for microbial and microbiome data
 - Large language models (LLMs) applied to biological sequence data
 - Vector search techniques for nucleotide sequences across bacteria, viruses, and fungi
 - GPU-accelerated base calling and downstream applications
@@ -53,7 +53,7 @@ This workshop will introduce microbiologists, computational biologists, and publ
 - Case studies from public health genomics
 - Agentic programming and pipeline optimisation for bioinformatics tool development
 
-**Day 1 in Birmingham on 8th October** offers a technical, academic-focused programme centred on metagenomics and machine learning. It's the first half of a two-part series.
+**Day 1 in Birmingham on 8th October** offers a technical, academic-focused programme centred on microbial genomics, metagenomics and machine learning. It's the first half of a two-part series.
 
 **Day 2 takes place in London on Friday, 9 October 2026**, with a complementary focus on clinical and diagnostic applications for NHS-linked and public health audiences. Participants are encouraged to attend both days where possible. [More information about day 2 can be found at this link](https://www.ns-bio.co.uk/bioinformatics-day).
 
