@@ -20,19 +20,18 @@ We're pleased to announce the confirmed speaker line-up for **Day 1** of this ne
 
 **📅 Date:** Thursday, 8 October 2026
 
-**🕙 Time:** 10:00 –-15:00 (lunch included)
+**🕙 Time:** 10:00 - 15:00 (lunch included)
 
 **📍 Location:** Birmingham Central Library, Centenary Square Broad Street, Birmingham, B1 2ND
 
-**🎯 Focus:** A technical deep-dive into metagenomic assembly, GPU-accelerated bioinformatics algorithms, and advanced computational methods for microbiome research.
+**🎯 Focus:** A technical deep-dive into metagenomic assembly, GPU-accelerated bioinformatics algorithms, and advanced computational methods for microbial and microbiome research.
 
 ### Confirmed Speakers
 
 - **Keynote**: **Todd Treangen** - Rice University
 - **Keynote**: **Páll Melsted** - University of Iceland
-- **Nick Loman** - University of Birmingham
+- **Nick Loman** - University of Birmingham / Quadram Institute Bioscience
 - **Lauren Cowley** - University of Bath
-- **Lisa Marchioretto** - Quadram Institute Bioscience / CLIMB
 - **Ben Busby** - NVIDIA
 
 More speakers and the full agenda will be announced as the programme is finalised.
@@ -66,7 +65,7 @@ This workshop will introduce microbiologists, computational biologists, and publ
 - Core facility and research computing staff
 - Industry representatives from life sciences, pharma, and biotech
 
-Registration is limited to **120 participants**, with a brief application question to ensure a technically appropriate audience. Demand is expected to be high, where you are not confirmed a place, a waitlist will be in place.
+Registration is limited to **100 participants**, with a brief application question to ensure a technically appropriate audience. Demand is expected to be high, where you are not confirmed a place, a waitlist will be in place.
 
  
 **[Apply here](https://forms.gle/FjDcQ52DYSLT8SAX6)** 
